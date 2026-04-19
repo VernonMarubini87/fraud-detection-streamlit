@@ -1,6 +1,7 @@
 **Fraud Detection System | Real-time Transaction Analysis**
 
 **Overview**
+
 Financial fraud costs businesses and individuals billions annually. I built this real-time fraud detection system with the help of AI to help identify suspicious transactions instantly using machine learning. The interactive web app allows users to input transaction details and receive immediate fraud predictions with confidence scores.
 
 Live Demo: [https://fraud-detection-app-bduwvxejymvdvg848ytytp.streamlit.app/]
